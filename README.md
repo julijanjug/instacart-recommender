@@ -1,7 +1,12 @@
 # instacart-recommender
-Predicting users reorders. TODO
+Predicting users reorders.
+<a href="https://www.kaggle.com/c/instacart-market-basket-analysis">Kaggle</a>
 
 Data can be found <a href="https://www.kaggle.com/c/instacart-market-basket-analysis/data">here</a>.
+<ul>
+    <li> Public score: 0.37977</li>
+    <li> Private score: 0.37967</li>
+</ul>
 
 <h2>Features</h2>
 <h3>User features</h3>
