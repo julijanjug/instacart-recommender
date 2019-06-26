@@ -3,11 +3,13 @@ Predicting users reorders.
 <a href="https://www.kaggle.com/c/instacart-market-basket-analysis">Kaggle</a>
 
 Data can be found <a href="https://www.kaggle.com/c/instacart-market-basket-analysis/data">here</a>.
+
+
+<h1>LightGBM recommender</h1>
 <ul>
     <li> Public score: 0.37977</li>
     <li> Private score: 0.37967</li>
 </ul>
-
 <h2>Features</h2>
 <h3>User features</h3>
 <ul>
@@ -44,3 +46,7 @@ Data can be found <a href="https://www.kaggle.com/c/instacart-market-basket-anal
     <li>UP_delta_hour_vs_last</li>
     <li>UP_total_buys_n5</li>
 </ul>
+
+<h1>Association rules recommender</h1>
+
+
