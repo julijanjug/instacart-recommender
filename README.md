@@ -48,5 +48,5 @@ Data can be found <a href="https://www.kaggle.com/c/instacart-market-basket-anal
 </ul>
 
 <h1>Association rules recommender</h1>
-
+Credit: https://www.kaggle.com/datatheque/association-rules-mining-market-basket-analysis/comments
 
