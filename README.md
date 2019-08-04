@@ -8,6 +8,7 @@ Data can be found <a href="https://www.kaggle.com/c/instacart-market-basket-anal
 <h1>LightGBM recommender</h1>
 Credit: https://www.kaggle.com/paulantoine/light-gbm-benchmark-0-3692
 <ul>
+    <li> Local score: 0.310</li>
     <li> Public score: 0.37977</li>
     <li> Private score: 0.37967</li>
 </ul>
