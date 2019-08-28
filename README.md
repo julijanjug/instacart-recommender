@@ -48,7 +48,3 @@ Credit: https://www.kaggle.com/paulantoine/light-gbm-benchmark-0-3692
     <li>UP_delta_hour_vs_last</li>
     <li>UP_total_buys_n5</li>
 </ul>
-
-<h1>Association rules recommender</h1>
-Credit: https://www.kaggle.com/datatheque/association-rules-mining-market-basket-analysis/comments
-
